@@ -27,14 +27,39 @@ alt="Gmail Peter Lucas" width="40" height="40">
 <hr>
 
 <h3>🛠️ Mis skills son:</h3>
-<p>
-<a href="#">
-<img src="https://user-images.githubusercontent.com/72949565/213966825-93e5e216-9f32-4051-bae4-fc1fafa3160d.png" alt="HTML5" width="34" height="34">
-</a>
 
-<a href="#">
-<img src="https://user-images.githubusercontent.com/72949565/213966838-de9b9bcd-7de8-4ac4-aed3-eddf5683707b.png" alt="CSS3" width="40" height="40">
-</a>
+<p align="center">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/72949565/213966825-93e5e216-9f32-4051-bae4-fc1fafa3160d.png" alt="HTML5"  height="42" width="42">
+  </a>
+
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/72949565/213966838-de9b9bcd-7de8-4ac4-aed3-eddf5683707b.png" alt="CSS3">
+  </a>
+
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/72949565/213966841-047bd27d-79e1-4f7d-aca4-dd13b8b14ed7.png" alt="Responsive Design">
+  </a>
+
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/72949565/213966843-b901c5b7-90ec-4950-ac5f-576817ebe9e8.png" alt="Bootstrap">
+  </a>
+
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/72949565/213966842-6e4befaa-87e1-408e-853c-570b7cad3e3b.png" alt="Tailwindcss">
+  </a>
+  
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/72949565/213966849-5a34c4f7-7f12-4875-878c-e16f665e3405.png" alt="Javascript">
+  </a>
+  
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/72949565/213966846-4e2f6728-cada-4dd6-8493-1f8dd4ae3329.png" alt="Adobe Photoshop">
+  </a>
+  
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/72949565/213966845-7c9b02c7-ec42-4390-b74c-3063860c2d53.png" alt="Adobe Illustrator">
+  </a>
 </p>
     
 </div>
