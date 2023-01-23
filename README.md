@@ -30,7 +30,7 @@ alt="Gmail Peter Lucas" width="40" height="40">
 
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/72949565/213966825-93e5e216-9f32-4051-bae4-fc1fafa3160d.png" alt="HTML5"  height="42" width="42">
+    <img src="https://user-images.githubusercontent.com/72949565/213977082-c24cc7dd-76c1-4c52-8363-d0d32eedda7c.png" alt="HTML5">
   </a>
 
   <a href="#">
